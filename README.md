@@ -1,2 +1,2 @@
 # compo_A
-a
+ab
